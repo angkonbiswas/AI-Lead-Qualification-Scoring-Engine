@@ -1,0 +1,21 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local exports / temporary files
+*.tmp
+*.bak
+
+# Private data
+credentials.json
+secrets.json
